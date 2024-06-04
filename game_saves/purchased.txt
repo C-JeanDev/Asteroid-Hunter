@@ -1,0 +1,7 @@
+Texture/bg1.jpg
+Texture/sships/spaceship0.png
+Texture/asteroid/as1.png
+Texture/sships/spaceship4.png
+Texture/bg3.jpg
+Texture/sships/spaceship1.png
+Texture/bg2.jpg
